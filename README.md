@@ -1,2 +1,2 @@
-# csp
-Caching search providers
+# osp
+Offline search providers
