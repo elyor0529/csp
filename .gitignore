@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/OSP/OSP.UI/obj
+/OSP/OSP.UI/bin
+/OSP/OSP.UI.Test/bin
+/OSP/OSP.UI.Test/obj
