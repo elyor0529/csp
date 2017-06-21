@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSP.UI", "OSP.UI\OSP.UI.csproj", "{B6F45AE9-0C79-4ADA-B341-35A8A74AFB88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSP.UI.Test", "OSP.UI.Test\OSP.UI.Test.csproj", "{58112C75-F87C-4C3A-9955-BC27D98A2F69}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{DDBF4072-11F9-47A8-90E5-AD1281CA7F43}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{6D2496DB-C531-491A-8BB1-F3758611A578}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6F45AE9-0C79-4ADA-B341-35A8A74AFB88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6F45AE9-0C79-4ADA-B341-35A8A74AFB88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6F45AE9-0C79-4ADA-B341-35A8A74AFB88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6F45AE9-0C79-4ADA-B341-35A8A74AFB88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58112C75-F87C-4C3A-9955-BC27D98A2F69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58112C75-F87C-4C3A-9955-BC27D98A2F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58112C75-F87C-4C3A-9955-BC27D98A2F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58112C75-F87C-4C3A-9955-BC27D98A2F69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B6F45AE9-0C79-4ADA-B341-35A8A74AFB88} = {DDBF4072-11F9-47A8-90E5-AD1281CA7F43}
+		{58112C75-F87C-4C3A-9955-BC27D98A2F69} = {6D2496DB-C531-491A-8BB1-F3758611A578}
+	EndGlobalSection
+EndGlobal
